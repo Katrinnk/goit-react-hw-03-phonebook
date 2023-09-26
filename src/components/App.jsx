@@ -1,4 +1,3 @@
-import { nanoid } from 'nanoid';
 import { Notify } from 'notiflix';
 import { Component } from 'react';
 import CreateContact from './Forms/CreateContact';
